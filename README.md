@@ -23,7 +23,7 @@
 `/welcome_edit`：用表單改標題、內容（可換行）、顏色和大圖網址。
 `/welcome_preview`：用你自己預覽，不會真的發送。
 `/welcome_reset`：恢復預設。
-內容可用 `{user}`、`{name}`、`{server}`、`{count}`、`{created}`、{`joined}`、`{date}` 等變數，也可以直接寫 <#頻道ID>。圖片目前只支援貼網址，因為 Discord 上傳檔案的連結會過期。
+內容可用 `{user}`、`{name}`、`{server}`、`{count}`、`{created}`、`{joined}`、`{date}` 等變數，也可以直接寫 <#頻道ID>。圖片目前只支援貼網址，因為 Discord 上傳檔案的連結會過期。
 # 6.未來會有的新東西
 <img width="20" height="20" alt="forum_30dp_ECA1DB_FILL1_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/3333cc77-33a5-4fa0-9980-ed7d031dfca1" />論壇（尚未開發完成）
 <img width="20" height="20" alt="settings_30dp_ECA1DB_FILL1_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/a8f12d06-6a12-4fad-ad5a-d211b618091f" />Bot Consle（尚未開發完成）
